@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    padding: 25px;
+    color: black;
+    font-size: 25px;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
